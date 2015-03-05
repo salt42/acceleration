@@ -37,6 +37,7 @@
     <header-file src="src/ios/HWPHello.h" target-dir="HelloPlugin"/>
     <source-file src="src/ios/HWPHello.m" target-dir="HelloPlugin"/>
   </platform>
+
   <!-- wp8 -->
   <platform name="wp8">
     <config-file target="config.xml" parent="/*">
@@ -49,9 +50,6 @@
       <Capability Name="ID_CAP_SENSORS" />
     </config-file>
     <source-file src="src/wp8/Hello.cs"/>
-  </platform>
-  <platform name="wp8">
-    
   </platform>
 
 </plugin>
