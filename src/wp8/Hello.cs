@@ -1,8 +1,6 @@
-using WP7CordovaClassLib.Cordova;
-using WP7CordovaClassLib.Cordova.Commands;
-using WP7CordovaClassLib.Cordova.JSON;
+using WPCordovaClassLib.Cordova.JSON;
 
-namespace Cordova.Extension.Commands
+namespace WPCordovaClassLib.Cordova.Commands
 {
     public class Hello : BaseCommand
     {
