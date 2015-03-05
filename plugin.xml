@@ -25,7 +25,7 @@
       <Capability Name="ID_CAP_SENSORS" />
     </config-file>
     
-    <source-file src="src/wp8/Hello.cs"/>
+    <source-file src="src/wp8/Sensor.cs"/>
   </platform>
 
 </plugin>
